@@ -13,6 +13,11 @@ Voorbeeld:
 
     myVar = 0;
 ```
+
+Loops.java is geen opgave, 
+dit zijn voorbeelden van een WHILE loop en een DO WHILE loop.
+
+Gebruik ze om mee te spelen en de code te begrijpen.
     
     
 
