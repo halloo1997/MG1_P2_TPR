@@ -9,7 +9,7 @@ Voorbeeld:
     int myVar;
 ```
 ```
-//  2. Zet in deze variabele het bedrag dat je in je portemenee hebt aan Euro's
+//  2. Zet in deze variabele het bedrag dat je in je portemonnee hebt aan Euro's
 
     myVar = 0;
 ```
