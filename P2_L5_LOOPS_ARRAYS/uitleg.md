@@ -1,8 +1,12 @@
 Maak de opgave.
 
+
 Bij elke commentaarregel die begint met een nummer moet je code invoeren.
 
+
 Voorbeeld:
+
+
 //  1. Maak variabele van het type int
     int myVar;
 
