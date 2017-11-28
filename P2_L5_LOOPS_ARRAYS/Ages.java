@@ -32,7 +32,7 @@ public class Ages {
         // 10. Toon de gemiddelde leeftijd van alle studenten op het scherm weer.
 
 
-
+        in.close();
 
         /*
         Weergave op het scherm
