@@ -14,9 +14,9 @@ Voorbeeld:
     myVar = 0;
 ```
 
-Loops.java is geen opgave, 
-hierin staan voorbeelden van een WHILE loop en een DO WHILE loop.
-Doe er wat mee om de code te begrijpen.
+Loops.java is geen opgave. 
+hierin staan voorbeelden van een WHILE loop en een DO WHILE loop.  
+Doe er wat mee om de code te begrijpen.  
 Lees ze door, pas ze aan, gooi ze weg en maak ze opnieuw.
     
     
