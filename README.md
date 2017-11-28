@@ -7,7 +7,7 @@ Voorbeeld:
 
 P2_L5_LOOPS_ARRAYS.  
 periode: P2.  
-les: L5. 
+les: L5.   
 Onderwerp: LOOPS_ARRAYS
 
 
