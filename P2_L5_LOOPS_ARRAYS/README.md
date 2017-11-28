@@ -1,4 +1,4 @@
-Maak de opgave.  
+Maak de opgave Ages.java af.  
 Bij elke commentaarregel die begint met een nummer moet je code invoeren.
 
 Voorbeeld:
