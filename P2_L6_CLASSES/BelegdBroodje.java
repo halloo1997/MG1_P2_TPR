@@ -42,7 +42,7 @@ public class BelegdBroodje {
         if (extra.equals("")) {
             return "";
         } else {
-            return " en extra " + extra;
+            return " en " + extra;
         }
     }
 
