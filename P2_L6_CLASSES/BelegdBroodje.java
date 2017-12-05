@@ -2,12 +2,16 @@ public class BelegdBroodje {
 
     private String broodje;
     private String beleg;
-    private String extra = "";
+    private String extra;
 
     public BelegdBroodje(String broodje, String beleg) {
  /*
   * Vul de constructor in.
   */
+        // Zoek uit wat de this doet en gebruik als je het weet dit ook voor de andere 
+        // variabelen.
+        // Probeer uit wat een variabele doet zonder this.
+        this.extra = "geen extra beleg";
     }
 
     public void broodjeExtraBeleg(String extra) {
