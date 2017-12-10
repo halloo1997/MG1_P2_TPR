@@ -5,6 +5,7 @@ De ```Client.java, Server.java, Database.java en Utilities.java``` bestanden hor
 Vul de bestanden aan met de ontbrekende code waarin je onderstaand schema verwerkt.
 
 Package Name | Class Name |
+--- | ---| 
 **app.client** | **Client.java** |
 **app.server** | **Server.java** |
 **app.database** | **Database.java** |
