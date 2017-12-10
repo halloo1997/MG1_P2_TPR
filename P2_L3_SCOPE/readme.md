@@ -14,3 +14,8 @@ Package Name | Class Name |
 **app.database** | **Database.java** |
 **app.utilities** | **Utilities.java** |
 
+2. Achievement `Ask me everything`. 
+Het bestand Scope.java bevat een aantal vragen die je moet beantwoorden, daarnaast kan het zomaar zijn dat er error meldingen verschijnen. Los deze op.
+
+
+
