@@ -17,5 +17,10 @@ Package Name | Class Name |
 2. Achievement `Ask me everything`. 
 Het bestand Scope.java bevat een aantal vragen die je moet beantwoorden, daarnaast kan het zomaar zijn dat er error meldingen verschijnen. Los deze op.
 
+3. Achievement `Static`. 
+Je zoekt zelf uit wat `static` is. Hoe kun je zien wat de waarde is van een static variabele.  
+
+Je kunt de code gebruiken van `Enemy.java`.  
+
 
 
