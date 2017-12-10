@@ -1,6 +1,6 @@
 Deze directory bevat de code voor de scope, packages en access modifiers. 
 
-1. Achievement `Where is my package`. 
+1. Achievement `Where is my package`.  
 De ```Client.java, Server.java, Database.java en Utilities.java``` bestanden horen bij elkaar.
 
 Vul de bestanden aan met de ontbrekende code waarin je rekening houdt met onderstaand schema.  
