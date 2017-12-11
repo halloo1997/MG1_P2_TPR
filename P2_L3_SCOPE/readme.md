@@ -1,4 +1,4 @@
-Deze directory bevat de code voor de scope, packages en access modifiers. 
+Deze directory bevat de code voor de les over scope, packages en access modifiers. 
 
 1. Achievement `Where is my package`.  
 De ```Client.java, Server.java, Database.java en Utilities.java``` bestanden horen bij elkaar.
